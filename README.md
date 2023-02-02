@@ -1,4 +1,2 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Welcome to Creative Web Logic Network on Git Hub<br>
+Welcome to Creative Web Logic Based in Sydney NSW, Creative Web Logic Develops A Range Of Web And Client Based Software Solutions, in a range of languages from PHP to Microsoft .NET for clients all around Australia and The World. We have been in the web and software business for over 30 years developing solutions for a range of situations from games to websites and more.
